@@ -1,0 +1,9 @@
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\Students\obj\Debug\Students.csprojAssemblyReference.cache
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\Students\obj\Debug\Students.csproj.GenerateResource.cache
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\Students\obj\Debug\Students.Properties.Resources.resources
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\Students\bin\Debug\Students.dll
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\Students\bin\Debug\Students.pdb
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\Students\obj\Debug\Students.csproj.CopyComplete
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\Students\obj\Debug\Students.dll
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\Students\obj\Debug\Students.pdb

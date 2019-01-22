@@ -1,0 +1,16 @@
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\StudentsRegistrationSystem\obj\Debug\StudentsRegistrationSystem.csprojAssemblyReference.cache
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\StudentsRegistrationSystem\obj\Debug\StudentsRegistrationSystem.Properties.Resources.resources
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\StudentsRegistrationSystem\obj\Debug\StudentsRegistrationSystem.csproj.GenerateResource.cache
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\StudentsRegistrationSystem\obj\Debug\StudentsRegistrationSystem.csproj.CoreCompileInputs.cache
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\StudentsRegistrationSystem\obj\Debug\StudentsRegistrationSystem.frmStudent.resources
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\StudentsRegistrationSystem\obj\Debug\StudentsRegistrationSystem.ListOfStudents.resources
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\StudentsRegistrationSystem\obj\Debug\StudentsRegistrationSystem.Main.resources
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\StudentsRegistrationSystem\bin\Debug\StudentsRegistrationSystem.exe.config
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\StudentsRegistrationSystem\bin\Debug\StudentsRegistrationSystem.exe
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\StudentsRegistrationSystem\bin\Debug\StudentsRegistrationSystem.pdb
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\StudentsRegistrationSystem\bin\Debug\Students.dll
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\StudentsRegistrationSystem\bin\Debug\MySql.Data.dll
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\StudentsRegistrationSystem\bin\Debug\Students.pdb
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\StudentsRegistrationSystem\obj\Debug\StudentsRegistrationSystem.csproj.CopyComplete
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\StudentsRegistrationSystem\obj\Debug\StudentsRegistrationSystem.exe
+E:\Users\Petar\source\repos\StudentsRegistrationSystem\StudentsRegistrationSystem\obj\Debug\StudentsRegistrationSystem.pdb
